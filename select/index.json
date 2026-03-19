@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "紡",
   "base_artist": "171",
-  "createdAt": "2026-03-06T14:52:53.815550Z",
+  "createdAt": "2026-03-19T00:30:06.724318Z",
   "candidates": [
     {
       "id": "petitlyrics_1",
@@ -11,6 +11,15 @@
       "artist": "171",
       "has_synced": false,
       "path": "select/pl_01_紡_171.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "紡",
+      "artist": "171",
+      "has_synced": false,
+      "path": "select/localdb_01_紡_171.txt",
+      "repo_name": "VmL8V9AW82Q"
     }
   ]
 }
